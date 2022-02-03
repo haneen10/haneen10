@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haneen10
 - 👀 I’m interested in programming  , desgin , web development  , mobile app
 - 🌱 I’m currently learning python
-- 📫 How to reach me haneen.iraq93@gmail.com
+- 📫 How to reach me haneen.a.alkhteeb@gmail.com
 
 <!---
 haneen10/haneen10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
