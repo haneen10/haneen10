@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haneen10
 - 👀 I’m interested in programming  , desgin , web development  , mobile app
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React
 - 📫 How to reach me haneen.a.alkhteeb@gmail.com
 
 <!---
